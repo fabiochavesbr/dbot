@@ -1,3 +1,6 @@
+# Ignorar arquivo de variáveis de ambiente (tokens, senhas, etc.)
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
